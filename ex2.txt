@@ -1,0 +1,2 @@
+fh openhello.txt, w
+fh.close
